@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(103, 3, 80);
+}
+header{
+    display: flex;
+    background-color: pink;
+}
+.titulo{
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+.nav-head{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+main{
+    padding-top: 30px;
+    
+}
+
+.container{
+    color: rgb(0, 0, 0);
+    background-color: rgb(236, 175, 185);
+    text-align: center;
+   padding-top: 50px; 
+    display: flex;
+}
+.ropa{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.mom-rosa{
+    width: 170px;
+    height: 200px;
+    border-width: 5px;
+    border-color: rgb(103, 3, 80);
+    border-style: solid;
+}
+.buzo-holli{
+    width: 200px;
+    height: 200px;
+    border-width: 5px;
+    border-color: rgb(103, 3, 80);
+    border-style: solid;
+}
+.pantalon-oxford{
+    width: 200px;
+    height: 200px;
+    border-width: 5px;
+    border-color: rgb(103, 3, 80);
+    border-style: solid;
+}
